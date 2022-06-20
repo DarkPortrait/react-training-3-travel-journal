@@ -1,0 +1,79 @@
+body {
+  font-family: "Inter", "sans-serif";
+}
+
+nav {
+  background-color: #F55A5A;
+  color: #FFFFFF;
+  width: "100%";
+  height: 55px;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  display: flex;
+}
+
+.nav--img {
+  padding: 7px;
+  width: 24px;
+}
+
+.nav-text {
+  align: center;
+}
+
+.dest--img {
+  width: 200px;
+}
+
+.dest--title {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2B283A;
+}
+
+.dest--map {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  text-decoration-line: underline;
+  color: #918E9B;
+}
+
+.dest--date {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2B283A;
+}
+
+.dest--desc {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2B283A;
+}
+
+.dest--country {
+  display: flex;
+  margin-top: 30px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2B283A;
+}
+
+.dest--icon {
+  margin-right: 5px;
+}
